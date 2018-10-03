@@ -1,0 +1,4 @@
+name: test1_runCI
+type: runCI
+steps:
+  - IN: test1_ciRepo
